@@ -1,0 +1,74 @@
+* {
+    margin: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+body {
+    margin: 0px;
+
+    font-family: Arial, sans-serif;
+}
+
+header {
+    display: flex;
+    background-color: #0072b5;
+    color: white;
+    text-align: left;
+    padding: 30px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    background-color: #0072b5;
+    padding: 10px 0;
+    
+}
+
+nav li {
+    margin: 0px 90px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+p{
+    margin: 10px;
+    text-align: justify;
+}
+
+h2 {
+    margin: 10pxadd;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+    color: #666;
+}
+
+img {
+    width: 1000px;
+}
+
+#localizacao h2 p address {
+    margin: 20px;
+}
+
+footer {
+    margin-bottom: 20px;
+    background-color: #0072b5;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}

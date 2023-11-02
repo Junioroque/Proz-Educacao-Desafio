@@ -66,9 +66,21 @@ img {
 }
 
 footer {
+    display: flex;
     margin-bottom: 20px;
     background-color: #0072b5;
     color: white;
     text-align: center;
     padding: 10px 0;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+}
+
+
+footer img {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 5px;
 }
